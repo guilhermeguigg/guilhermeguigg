@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- #Hello! Welcome to my Github profile.
+ Hello! Welcome to my Github profile.
  My name is Guilherme
 - 📚 Currently working on: Completing my studies in Software Engineering (Bachelor's degree). 4/8
 - 😄 Pronomes:He/him
