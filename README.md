@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  #Hello! Welcome to my Github profile.
-# My name is Guilherme
+ My name is Guilherme
 - 📚 Currently working on: Completing my studies in Software Engineering (Bachelor's degree). 4/8
 - 😄 Pronomes:He/him
 - 👯 Looking to collaborate on: Exciting projects that push the boundaries of technology.
