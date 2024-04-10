@@ -29,5 +29,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeguigg&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeguigg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+![Alt Text]([url_do_seu_gif](https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-10.gif))
+
 
 
